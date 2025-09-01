@@ -1,6 +1,6 @@
 Hey, I'm Kris! Data Scientist with experience in UI/UX, Graphic Design, and Project Management.
 
-Tech Stack:
+Tech Stack:<br />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
